@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "pizza-shop-example",
+                "projectName": "pizza-shop-example",
+                "workingDirectory": "c:\\SRC\\ddd-edm-online-course\\2018-11-19-oreilly-online-trng-ntrajic",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "pizza-shop-example",
+                "projectName": "pizza-shop-example",
+                "workingDirectory": "c:\\SRC\\ddd-edm-online-course\\2018-11-19-oreilly-online-trng-ntrajic",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
